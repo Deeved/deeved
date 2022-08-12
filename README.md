@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Deeved Hiuston  👋
 
 <div align="center">
-  <a href="https://github.com/deeved" target="_blank">
+  <a href="https://github.com/deeved">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deeved&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"" />
-  
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeved&layout=compact&show_icons=true&theme=tokyonight" />
   </a>
 </div>
@@ -24,3 +23,4 @@
 
 ##
 
+![Snake animation](https://github.com/deeved/deeved/blob/output/github-contribution-grid-snake.svg)
