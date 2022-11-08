@@ -9,7 +9,7 @@
 
 [![@deeved's Holopin board](https://holopin.me/deeved)](https://holopin.io/@deeved)
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <a href="https://github.com/deeved">
   <img align="center" alt="Deeved-Js"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
   <img align="center" alt="Deeved-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
