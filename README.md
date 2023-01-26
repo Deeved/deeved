@@ -5,9 +5,9 @@ Sou Desenvolvedor Frontend na [Brisanet Telecomunicações S.A](https://www.bris
 
 ## 🚀 Tecnologias
 
-<hr>
 Essas são algumas das tecnologias e ferramentas das quais eu trabalho:
 <br><br>
+
 <div>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
